@@ -1,7 +1,8 @@
 Copyright (c) 2026 TwinStack Studio. All rights reserved.
 
-This repository is a public showcase. The text, screenshots and diagrams may not be
-copied, republished or used in other projects without prior written permission.
-The source code of this product is private and is not licensed to anyone.
+The code, model weights, results and documentation in this repository are published
+so that they can be read, run and checked as evidence of the work. No licence is granted
+to copy, modify, redistribute, or use any of it in other projects or products, commercial
+or otherwise, without prior written permission from TwinStack Studio.
 
-Contact: https://twinstackstudio.com/contact
+The model was trained on SKU-110K, which is subject to its authors' own terms of use.
