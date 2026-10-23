@@ -1,0 +1,7 @@
+{
+ "weights": "yolo11s.pt (COCO, not fine-tuned, all classes as product)",
+ "map50": 0.3835,
+ "map50_95": 0.1643,
+ "precision": 0.284,
+ "recall": 0.6001
+}
